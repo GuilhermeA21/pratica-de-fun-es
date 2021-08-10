@@ -1,0 +1,160 @@
+ void main ( ) {
+ 
+ For (int I= 9;x 0; I= ++)
+ 
+ {
+ 
+  print(I);
+  
+    }
+  
+  }
+  
+  void main ( ) {
+ 
+ For (int I= 7x < 0; I= ++)
+ 
+ {
+ 
+  print(I);
+  
+    }
+  
+  }
+ ---------------------------------------------------------------------
+ 
+ Void main ( ) {
+ 
+ String = 21 + 4
+ print (txt.endWith ("21 + 4")):
+ 
+ 
+ }
+ 
+ --------------------------------------------------------------------
+ Void main ( ) {
+ 
+ String = 22 + 2
+ print (txt.endWith ("22+ 2)):
+ 
+ 
+ }
+ ------------------------------------------------------------------
+ void main () {
+  
+  
+calcSoma (66,2 27,7)
+
+  
+}
+
+
+void calcSoma (double s double u {
+  
+  resultado duplo = s- u
+  
+ 
+  imprimir (resultado);
+}
+------------------------------------------------------------------
+void main () {
+  
+  
+escreverNome("Nadador" "32")
+  
+}
+
+
+void escreverNome (String nome, int idade) {
+  
+  // irá imprimir uma variável
+  print ("O nome é:" + nome.toString ());
+  print ("A idade é:" + idade.toString ());
+  
+}
+------------------------------------------------------------------
+void main () {
+  
+  // resultado jogando para dentro da variável para mostrar no console
+  resultado duplo = calcMult (30,0, 90,0);
+  imprimir (resMult);
+  
+}
+
+// como temos double o tipo e com retorno 
+double calcMult (double g, double h) {
+  
+  res duplo = g * h;
+  
+  return res;
+}
+----------------------------------------------------------------------
+void main ( ) {
+ 
+ For (int I= 16 x 1++)
+ 
+ {
+ 
+  print(I);
+  
+    }
+  
+  }
+  
+  void main ( ) {
+ 
+ For (int I= 16<1; I= ++)
+ 
+ {
+ 
+  print(I);
+  
+    }
+  
+  }
+  ------------------------------------------------------------------
+  void main () {
+  
+  
+calCalculadora (10,0, 10,0);
+  
+}
+
+
+void calCalculadora (double v1, double v2) {
+  
+  somar duplo = (v1 + v2);
+  double menos = (v1-v2);
+  dividir duplo = (v1 / v2);
+  multi duplo = (v1 * v2);
+  
+  
+  imprimir ("$ somar $ menos $ dividir $ multi");
+}
+-----------------------------------------------------------------
+void main ( ) {
+ 
+ For (int I= 9;x 0; I= + 1)
+ 
+ For (int I= 7x < 0; I= + 1)
+ 
+ 
+ {
+ 
+  print(I);
+  
+    }
+  
+  }
+  
+  void main ( ) {
+ 
+ 
+ {
+ 
+  print(I);
+  
+    }
+  
+  }
+  -------------------------------------------------------------------------
